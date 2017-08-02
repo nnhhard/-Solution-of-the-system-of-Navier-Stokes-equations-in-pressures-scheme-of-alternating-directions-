@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1450372663 source:c:\work\qrewr\2\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1477479644 source:c:\work\!sciencework\Навье - Стокс\Естественная постановка\Навье стокс - естественная постановка\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1478594698 source:c:\users\nnhhard\desktop\Навье стокс - естественная постановка\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1479233984 source:c:\users\nnhhard\desktop\только u\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1479235642 source:c:\users\nnhhard\desktop\только u - копия (2)\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1479238704 source:c:\users\nnhhard\desktop\только u - копия (2) - копия\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1479301060 source:c:\work\!sciencework\Навье - Стокс\Естественная постановка\Навье - Стокс(все как надо)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1480562446 source:c:\work\sciencework\Навье - Стокс\Естественная постановка\Течение Пуазейля\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1481090649 source:c:\users\nnhhard\desktop\Течение Пуазейля\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1480842036 source:c:\users\nnhhard\desktop\Течение Пуазейля - копия\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1481098169 source:c:\users\nnhhard\desktop\Течение Пуазейля(работает) v=0\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1481182382 source:c:\git\tests\Течение Пуазейля(работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1484115007 source:d:\git\tests\Течение Пуазейля(работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1486109968 source:c:\users\user\onedrive\old\До 23.01.17\tests\Течение Пуазейля(работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1488866645 source:c:\users\nnhha\onedrive\old\До 23.01.17\tests\Течение Пуазейля(работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1489029886 source:c:\users\nnhha\onedrive\current state\Течение Пуазейля в давлениях (работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1489042308 source:f:\123\Течение Пуазейля в давлениях (работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1489213682 source:e:\123\Течение Пуазейля в давлениях (работает)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1490158702 source:c:\users\nnhha\onedrive\ns current\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1490369975 source:c:\users\nnhha\onedrive\current state\ns current(pressure)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1501347910 source:c:\work\project\ns pressure drop (bicg-stab)\derivative.cpp
+	<stdio.h>
+	"Derivative.h"
+
+1501347498 c:\work\project\ns pressure drop (bicg-stab)\derivative.h
+
+1501340727 source:c:\work\project\ns pressure drop (bicg-stab)\solvers.cpp
+	"Solvers.h"
+
+1501340740 c:\work\project\ns pressure drop (bicg-stab)\solvers.h
+
+1501670656 source:c:\work\project\ns pressure drop (bicg-stab)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	"Derivative.h"
+	"Solvers.h"
+
